@@ -1,6 +1,6 @@
 :root {
-    --main-color: #2780e6;
-    --hover-color: #1e63b3;
+    --main-color: #e63737;
+    --hover-color: #eb2416;
     --success-color: #43b581;
     --danger-color: #982929;
     --channel-unread: var(--main-color);
@@ -22,7 +22,7 @@
     --members-width: 240px;
     --background-shading: 100%;
     --background-overlay: rgba(0, 0, 0, 0.6);
-    --background-image: url(https://clearvision.github.io/images/sapphire.jpg);
+    --background-image: url(https://tchno.ir/icon/wolf1.jpg);
     --background-position: center;
     --background-size: cover;
     --background-repeat: no-repeat;
@@ -597,14 +597,14 @@ textarea,
 }
 
 .typeWindows-2-g3UY>.wordmark-2u86JB:before {
-    content: "ClearVision";
+    content: "Wolf";
     color: rgba(255, 255, 255, .7);
     font-size: 14px;
     text-shadow: 0 0 3px #000
 }
 
 .typeWindows-2-g3UY>.wordmark-2u86JB:after {
-    content: "v6.3.0";
+    content: "v6.0.0";
     color: rgba(255, 255, 255, .3);
     font-family: var(--code-font);
     font-size: 10px
@@ -1262,14 +1262,14 @@ textarea,
 }
 
 .container-YkUktl:before {
-    content: "ClearVision";
+    content: "Wolf";
     right: 50%;
     text-align: right;
     transform: translateX(50%)
 }
 
 .container-YkUktl:after {
-    content: "v6.3.0";
+    content: "v6.0.0";
     left: 50%;
     text-align: left;
     opacity: 0;
